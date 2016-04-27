@@ -1,0 +1,8 @@
+{
+    "database": {
+        "host": "localhost",
+        "name": "fa_project",
+        "username": "root",
+        "password": ""
+    }
+}
